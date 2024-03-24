@@ -1,0 +1,8 @@
+C:\Users\Win10\Desktop\nesne\ecczane\ecczane\obj\x86\Debug\ecczane.Form1.resources
+C:\Users\Win10\Desktop\nesne\ecczane\ecczane\obj\x86\Debug\ecczane.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\ecczane\ecczane\obj\x86\Debug\ecczane.csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\nesne\ecczane\ecczane\bin\Debug\ecczane.exe.config
+C:\Users\Win10\Desktop\nesne\VERİ TABANI (ECZANEYE VERİ EKLEME)\ecczane\bin\Debug\ecczane.exe.config
+C:\Users\Win10\Desktop\nesne\VERİ TABANI (ECZANEYE VERİ EKLEME)\ecczane\obj\x86\Debug\ecczane.Form1.resources
+C:\Users\Win10\Desktop\nesne\VERİ TABANI (ECZANEYE VERİ EKLEME)\ecczane\obj\x86\Debug\ecczane.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\VERİ TABANI (ECZANEYE VERİ EKLEME)\ecczane\obj\x86\Debug\ecczane.csproj.GenerateResource.Cache
